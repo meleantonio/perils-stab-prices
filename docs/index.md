@@ -197,4 +197,4 @@ The folder ```FiguresAndTables``` contains the files for replicating the paper. 
 
 ## If there is any problem:
 
-Open an issue in the [Github repository](https://github.com/meleantonio/perils-stab-prices), or contact Antonio Mele at meleantonio@gmail.com
+[Open an issue](https://github.com/meleantonio/perils-stab-prices/issues)in the [Github repository](https://github.com/meleantonio/perils-stab-prices), or contact Antonio Mele at meleantonio@gmail.com
